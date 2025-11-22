@@ -1,0 +1,111 @@
+.results-template {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.results-template__header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.results-template__title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #212529;
+  margin: 0 0 16px 0;
+}
+
+.results-template__subtitle {
+  font-size: 18px;
+  color: #6c757d;
+  margin: 0 0 24px 0;
+  line-height: 1.6;
+}
+
+.results-template__comparison-bar {
+  background-color: #f0f7ff;
+  padding: 16px 24px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+  border: 2px solid #0066cc;
+}
+
+.results-template__comparison-bar p {
+  margin: 0;
+  font-weight: 600;
+  color: #212529;
+}
+
+.results-template__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 24px;
+}
+
+.results-template__card {
+  position: relative;
+}
+
+.results-template__best-match {
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+.results-template__best-match span {
+  background: linear-gradient(135deg, #ffd700, #ffed4e);
+  color: #856404;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+.results-template__reasons {
+  margin-top: 16px;
+  padding: 16px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #0066cc;
+}
+
+.results-template__reasons h4 {
+  margin: 0 0 12px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #212529;
+}
+
+.results-template__reasons ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.results-template__reasons li {
+  color: #495057;
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.results-template__reasons li:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .results-template__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .results-template__comparison-bar {
+    flex-direction: column;
+    gap: 12px;
+  }
+}

@@ -1,0 +1,143 @@
+.duvet-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.duvet-card--selected {
+  border-color: #0066cc;
+  border-width: 2px;
+}
+
+.duvet-card__image-container {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 8px 8px 0 0;
+  margin: -20px -20px 16px -20px;
+  background-color: #f8f9fa;
+}
+
+.duvet-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.duvet-card:hover .duvet-card__image {
+  transform: scale(1.05);
+}
+
+.duvet-card__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+  gap: 12px;
+}
+
+.duvet-card__name {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #212529;
+  flex: 1;
+}
+
+.duvet-card__price {
+  font-size: 28px;
+  font-weight: 700;
+  color: #0066cc;
+  margin: 0 0 16px 0;
+}
+
+.duvet-card__details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding: 16px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.duvet-card__detail-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.duvet-card__detail-label {
+  font-size: 11px;
+  color: #6c757d;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.duvet-card__detail-value {
+  font-size: 14px;
+  color: #212529;
+  font-weight: 500;
+}
+
+.duvet-card__filling {
+  margin-bottom: 12px;
+  padding: 12px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.duvet-card__filling-text {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #495057;
+  margin: 4px 0 0 0;
+}
+
+.duvet-card__properties {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.duvet-card__certifications {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.duvet-card__rating {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.duvet-card__stars {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.duvet-card__rating-value {
+  font-size: 14px;
+  font-weight: 600;
+  color: #212529;
+}
+
+.duvet-card__warranty {
+  font-size: 13px;
+  color: #6c757d;
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+
+.duvet-card__actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: auto;
+}

@@ -1,0 +1,364 @@
+[
+    {
+        "id": "4025000",
+        "sku": "FD-ANEMONE",
+        "slug": "flora-danica-anemone",
+        "brand": "Flora Danica",
+        "name": "Anemone",
+        "images": ["/images/flora-danica-anemone.jpg"],
+        "allergyFriendly": true,
+        "certifications": ["STANDARD 100 by OEKO-TEX"],
+        "fillings": "90% hvide, europæiske moskusdun / 10% hvide, europæiske moskusandefjer",
+        "properties": ["Allergivenlig", "Downafresh", "NOMITE"],
+        "quality": "GOLD",
+        "rating": 4.7,
+        "variants": [
+            {
+                "id": "4025250",
+                "sku": "FD-ANEMONE-135x200-SVAL",
+                "length": 200,
+                "width": 135,
+                "price": 1399,
+                "currency": "DKK",
+                "type": "Sommerdyne",
+                "insulation": "Sval"
+            },
+            {
+                "id": "4025251",
+                "sku": "FD-ANEMONE-135x220-SVAL",
+                "length": 220,
+                "width": 135,
+                "price": 1599,
+                "currency": "DKK",
+                "type": "Sommerdyne",
+                "insulation": "Sval"
+            },
+            {
+                "id": "4025350",
+                "sku": "FD-ANEMONE-135x200-VARM",
+                "length": 200,
+                "width": 135,
+                "price": 1999,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4025351",
+                "sku": "FD-ANEMONE-135x220-VARM",
+                "length": 220,
+                "width": 135,
+                "price": 2299,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4025385",
+                "sku": "FD-ANEMONE-200x220-VARM",
+                "length": 220,
+                "width": 200,
+                "price": 2999,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            }
+        ],
+        "years_warranty": 10
+    },
+    {
+        "id": "4001000",
+        "sku": "FD-TUSINDFRYD",
+        "slug": "flora-danica-tusindfryd",
+        "brand": "Flora Danica",
+        "name": "Tusindfryd",
+        "images": ["/images/flora-danica-tusindfryd.jpg"],
+        "allergyFriendly": true,
+        "certifications": ["STANDARD 100 by OEKO-TEX"],
+        "fillings": "90% hvide, europæiske moskusdun / 10% hvide, europæiske moskusandefjer",
+        "properties": ["Allergivenlig", "Downafresh", "NOMITE"],
+        "quality": "GOLD",
+        "rating": 4.9,
+        "variants": [
+            {
+                "id": "4011650",
+                "sku": "FD-TUSINDFRYD-135x200-SVAL",
+                "length": 200,
+                "width": 135,
+                "price": 2499,
+                "currency": "DKK",
+                "type": "Sommerdyne",
+                "insulation": "Sval"
+            },
+            {
+                "id": "4011651",
+                "sku": "FD-TUSINDFRYD-135x220-SVAL",
+                "length": 220,
+                "width": 135,
+                "price": 2799,
+                "currency": "DKK",
+                "type": "Sommerdyne",
+                "insulation": "Sval"
+            },
+            {
+                "id": "4011685",
+                "sku": "FD-TUSINDFRYD-200x220-SVAL",
+                "length": 220,
+                "width": 200,
+                "price": 2499,
+                "currency": "DKK",
+                "type": "Sommerdyne",
+                "insulation": "Sval"
+            },
+            {
+                "id": "4021550",
+                "sku": "FD-TUSINDFRYD-135x200-VARM",
+                "length": 200,
+                "width": 135,
+                "price": 3699,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4021551",
+                "sku": "FD-TUSINDFRYD-135x220-VARM",
+                "length": 220,
+                "width": 135,
+                "price": 3999,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4021585",
+                "sku": "FD-TUSINDFRYD-200x220-VARM",
+                "length": 220,
+                "width": 200,
+                "price": 3699,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4001689",
+                "sku": "FD-TUSINDFRYD-220x240-EKSTRA-VARM",
+                "length": 240,
+                "width": 220,
+                "price": 4499,
+                "currency": "DKK",
+                "type": "Vinterdyne",
+                "insulation": "Ekstra varm"
+            }
+        ],
+        "years_warranty": 10
+    },
+    {
+        "id": "4003000",
+        "sku": "FD-SOLSIKKE",
+        "slug": "flora-danica-solsikke",
+        "brand": "Flora Danica",
+        "name": "Solsikke",
+        "images": ["/images/flora-danica-solsikke.jpg"],
+        "allergyFriendly": true,
+        "certifications": ["STANDARD 100 by OEKO-TEX", "Downpass"],
+        "fillings": "85% hvide, europæiske gåsedun / 15% hvide, europæiske gåsefjer",
+        "properties": ["Allergivenlig", "Downafresh", "NOMITE"],
+        "quality": "SILVER",
+        "rating": 4.5,
+        "variants": [
+            {
+                "id": "4003150",
+                "sku": "FD-SOLSIKKE-135x200-SVAL",
+                "length": 200,
+                "width": 135,
+                "price": 999,
+                "currency": "DKK",
+                "type": "Sommerdyne",
+                "insulation": "Sval"
+            },
+            {
+                "id": "4003250",
+                "sku": "FD-SOLSIKKE-135x200-NORMAL",
+                "length": 200,
+                "width": 135,
+                "price": 1299,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Normal"
+            },
+            {
+                "id": "4003285",
+                "sku": "FD-SOLSIKKE-200x220-NORMAL",
+                "length": 220,
+                "width": 200,
+                "price": 1999,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Normal"
+            }
+        ],
+        "years_warranty": 5
+    },
+    {
+        "id": "4004000",
+        "sku": "FD-MARGUERIT",
+        "slug": "flora-danica-marguerit",
+        "brand": "Flora Danica",
+        "name": "Marguerit",
+        "images": ["/images/flora-danica-marguerit.jpg"],
+        "allergyFriendly": false,
+        "certifications": ["Downpass", "RDS"],
+        "fillings": "95% hvide, europæiske gåsedun / 5% hvide, europæiske gåsefjer",
+        "properties": ["Downafresh", "Premium kvalitet"],
+        "quality": "PLATINUM",
+        "rating": 4.8,
+        "variants": [
+            {
+                "id": "4004150",
+                "sku": "FD-MARGUERIT-135x200-SVAL",
+                "length": 200,
+                "width": 135,
+                "price": 2999,
+                "currency": "DKK",
+                "type": "Sommerdyne",
+                "insulation": "Sval"
+            },
+            {
+                "id": "4004250",
+                "sku": "FD-MARGUERIT-135x200-VARM",
+                "length": 200,
+                "width": 135,
+                "price": 3999,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4004285",
+                "sku": "FD-MARGUERIT-200x220-VARM",
+                "length": 220,
+                "width": 200,
+                "price": 4999,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4004350",
+                "sku": "FD-MARGUERIT-135x200-EKSTRA-VARM",
+                "length": 200,
+                "width": 135,
+                "price": 4499,
+                "currency": "DKK",
+                "type": "Vinterdyne",
+                "insulation": "Ekstra varm"
+            }
+        ],
+        "years_warranty": 15
+    },
+    {
+        "id": "4005000",
+        "sku": "FD-KORNBLOMST",
+        "slug": "flora-danica-kornblomst",
+        "brand": "Flora Danica",
+        "name": "Kornblomst",
+        "images": ["/images/flora-danica-kornblomst.jpg"],
+        "allergyFriendly": true,
+        "certifications": ["STANDARD 100 by OEKO-TEX"],
+        "fillings": "80% hvide, europæiske andedun / 20% hvide, europæiske andefjer",
+        "properties": ["Allergivenlig", "NOMITE", "God luftgennemstrømning"],
+        "quality": "SILVER",
+        "rating": 4.4,
+        "variants": [
+            {
+                "id": "4005150",
+                "sku": "FD-KORNBLOMST-135x200-NORMAL",
+                "length": 200,
+                "width": 135,
+                "price": 899,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Normal"
+            },
+            {
+                "id": "4005185",
+                "sku": "FD-KORNBLOMST-200x220-NORMAL",
+                "length": 220,
+                "width": 200,
+                "price": 1399,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Normal"
+            },
+            {
+                "id": "4005250",
+                "sku": "FD-KORNBLOMST-135x200-VARM",
+                "length": 200,
+                "width": 135,
+                "price": 1299,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            }
+        ],
+        "years_warranty": 5
+    },
+    {
+        "id": "4006000",
+        "sku": "FD-VALMUE",
+        "slug": "flora-danica-valmue",
+        "brand": "Flora Danica",
+        "name": "Valmue",
+        "images": ["/images/flora-danica-valmue.jpg"],
+        "allergyFriendly": true,
+        "certifications": ["STANDARD 100 by OEKO-TEX", "Downpass"],
+        "fillings": "90% hvide, europæiske moskusdun / 10% hvide, europæiske moskusandefjer",
+        "properties": ["Allergivenlig", "Downafresh", "NOMITE"],
+        "quality": "GOLD",
+        "rating": 4.6,
+        "variants": [
+            {
+                "id": "4006150",
+                "sku": "FD-VALMUE-135x200-NORMAL",
+                "length": 200,
+                "width": 135,
+                "price": 1699,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Normal"
+            },
+            {
+                "id": "4006185",
+                "sku": "FD-VALMUE-200x220-NORMAL",
+                "length": 220,
+                "width": 200,
+                "price": 2299,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Normal"
+            },
+            {
+                "id": "4006250",
+                "sku": "FD-VALMUE-135x200-VARM",
+                "length": 200,
+                "width": 135,
+                "price": 2199,
+                "currency": "DKK",
+                "type": "Dyne",
+                "insulation": "Varm"
+            },
+            {
+                "id": "4006350",
+                "sku": "FD-VALMUE-135x200-EKSTRA-VARM",
+                "length": 200,
+                "width": 135,
+                "price": 2699,
+                "currency": "DKK",
+                "type": "Vinterdyne",
+                "insulation": "Ekstra varm"
+            }
+        ],
+        "years_warranty": 10
+    }
+]

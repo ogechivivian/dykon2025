@@ -1,0 +1,102 @@
+[
+  {
+    "id": "q1",
+    "text": "How do you typically sleep temperature-wise?",
+    "preferenceKey": "sleepTemperature",
+    "options": [
+      {
+        "value": "cold",
+        "label": "I often feel cold",
+        "description": "You need extra blankets and prefer a warmer duvet"
+      },
+      {
+        "value": "normal",
+        "label": "Just right",
+        "description": "You sleep comfortably in most conditions"
+      },
+      {
+        "value": "warm",
+        "label": "I often feel too warm",
+        "description": "You kick off covers and prefer cooler bedding"
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "Which season do you need the duvet for?",
+    "preferenceKey": "season",
+    "options": [
+      {
+        "value": "summer",
+        "label": "Summer",
+        "description": "Light and breathable for warm nights"
+      },
+      {
+        "value": "winter",
+        "label": "Winter",
+        "description": "Extra warm for cold nights"
+      },
+      {
+        "value": "all-season",
+        "label": "All year round",
+        "description": "Versatile for use throughout the year"
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "Do you have allergies or asthma?",
+    "preferenceKey": "allergies",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes",
+        "description": "I need hypoallergenic materials"
+      },
+      {
+        "value": "no",
+        "label": "No",
+        "description": "No specific allergy concerns"
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "What is your budget range?",
+    "preferenceKey": "budget",
+    "options": [
+      {
+        "value": "low",
+        "label": "Up to 1000 DKK",
+        "description": "Budget-friendly options"
+      },
+      {
+        "value": "medium",
+        "label": "1000-2000 DKK",
+        "description": "Good balance of quality and price"
+      },
+      {
+        "value": "high",
+        "label": "Over 2000 DKK",
+        "description": "Premium quality, best materials"
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "Is sustainability important to you?",
+    "preferenceKey": "sustainability",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes, very important",
+        "description": "I prefer organic, recycled, or eco-certified products"
+      },
+      {
+        "value": "no",
+        "label": "Not a priority",
+        "description": "Other factors are more important to me"
+      }
+    ]
+  }
+]
